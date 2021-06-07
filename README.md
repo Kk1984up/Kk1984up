@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kk1984up
 - 👀 I’m interested in deeplearning and ml
-- 🌱 I’m currently learning ocr
+- 🌱 I’m currently learning bigdata and ai
 - 💞️ I’m looking to collaborate on sufe
 - 📫 How to reach me ...
 
